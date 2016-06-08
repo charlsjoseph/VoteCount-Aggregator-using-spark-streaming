@@ -1,0 +1,10 @@
+var hbase = require('hbase');
+
+var client = new hbase.Client({
+  host: 'localhost',
+  port: 20550
+});
+
+client.getRow('global_aggregate', 'kafka1', ['CF:count'], function (err, row) {
+  console.log(row);
+});

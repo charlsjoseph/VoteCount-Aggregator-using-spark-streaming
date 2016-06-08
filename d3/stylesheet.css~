@@ -1,0 +1,7 @@
+svg { 
+  background-color: antiquewhite;
+  margin-left : auto;
+  margin-right : auto;
+  display : block;
+}
+

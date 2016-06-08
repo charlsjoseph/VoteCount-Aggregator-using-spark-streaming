@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shanghai",
+    "latitude": 31.22222,
+    "longitude": 121.45806,
+    "population": 22315474
+  },
+  {
+    "name": "Buenos Aires",
+    "latitude": -34.61315,
+    "longitude": -58.37723,
+    "population": 13076300
+  },
+  {
+    "name": "Mumbai",
+    "latitude": 19.07283,
+    "longitude": 72.88261,
+    "population": 12691836
+  }
+]
